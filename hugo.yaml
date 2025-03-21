@@ -1,5 +1,5 @@
-baseURL: https://example.org/
-languageCode: en-us
+baseURL: https://yanychoi.github.io/
+defaultContentLanguage: en
 title: Yany's Blog
 module:
   imports:
@@ -7,7 +7,17 @@ module:
 
 menu:
   main:
-  - name: Blog
+  - identifier: blog
+    name: Blog
     url: /blog
-  - name: Github
+  - identifier: github
+    name: Github
     url: https://github.com/YanyChoi
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+  ko:
+    languageName: Korean
+    weight: 2

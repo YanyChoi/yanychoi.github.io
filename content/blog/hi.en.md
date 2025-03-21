@@ -1,6 +1,4 @@
 ---
 date: '2025-03-21T22:18:51+09:00'
-title: 'Hi'
+title: 'First Article'
 ---
-
-This is the new file

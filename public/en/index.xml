@@ -1,25 +1,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yany&#39;s Blog – </title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/en/</link>
     <description>Recent content on Yany&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 21 Mar 2025 22:18:12 +0900</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     
     
       
+        
       
     
     
     <item>
       <title>First Article</title>
-      <link>http://localhost:1313/blog/hi/</link>
+      <link>http://localhost:1313/en/blog/hi/</link>
       <pubDate>Fri, 21 Mar 2025 22:18:51 +0900</pubDate>
       
-      <guid>http://localhost:1313/blog/hi/</guid>
+      <guid>http://localhost:1313/en/blog/hi/</guid>
       <description>
         
         
