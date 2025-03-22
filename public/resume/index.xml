@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yany&#39;s Blog – Yany Choi</title>
+    <link>http://localhost:1313/resume/</link>
+    <description>Recent content in Yany Choi on Yany&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Mar 2025 13:30:58 +0900</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/resume/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/ko/</loc>
+    <lastmod>2025-03-22T13:30:58+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ko/resume/</loc>
+    <lastmod>2025-03-22T13:30:58+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/resume/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/ko/resume/"
+                />
+  </url><url>
     <loc>http://localhost:1313/ko/blog/</loc>
     <lastmod>2025-03-21T22:18:51+09:00</lastmod>
     <xhtml:link
@@ -13,19 +39,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="http://localhost:1313/ko/blog/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ko/</loc>
-    <lastmod>2025-03-21T22:18:51+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/ko/"
                 />
   </url><url>
     <loc>http://localhost:1313/ko/blog/hi/</loc>

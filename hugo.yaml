@@ -10,6 +10,9 @@ menu:
   - identifier: blog
     name: Blog
     url: /blog
+  - identifier: resume
+    name: Resume
+    url: /resume
   - identifier: github
     name: Github
     url: https://github.com/YanyChoi
@@ -21,3 +24,8 @@ languages:
   ko:
     languageName: Korean
     weight: 2
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
