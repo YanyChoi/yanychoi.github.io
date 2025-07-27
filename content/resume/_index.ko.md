@@ -11,6 +11,9 @@ title: '최용환 - Yany Choi'
 <br />
 
 ## **Work Experiences**
+### **당근** (강남구, 서울특별시)
+**Site Reliability Engineer, SRE팀 클라우드파트** 2025.06 - 
+
 ### **당근페이** (강남구, 서울특별시)
 **Site Reliability Engineer, 인프라팀** 2024.07 -
 - Kubernetes

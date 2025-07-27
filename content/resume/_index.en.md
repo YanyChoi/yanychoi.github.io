@@ -12,6 +12,8 @@ title: 'Yany Choi'
 <br />
 
 ## **Work Experiences**
+### **Karrot** (Gangnam-gu, Seoul)
+**Site Reliability Engineer, SRE Team Cloud Part** Jun 2025 - Present
 
 ### **Danggeun Pay** (Gangnam-gu, Seoul)
 **Site Reliability Engineer, Infrastructure Team** Jul 2024 - Present
